@@ -12,10 +12,7 @@
     "Updater.dll",
     "Updater.deps.json",
     "Updater.runtimeconfig.json",
-    "ReaLTaiizor.dll",
-    "System.Configuration.ConfigurationManager.dll",
-    "System.Diagnostics.EventLog.dll",
-    "System.Security.Cryptography.ProtectedData.dll"
+    "ReaLTaiizor.dll"
   ],
   "changelog": "🆕 VERSION 1.0.0 - Initial Release\n\n✨ NEUE FEATURES\n• Initiale Version des M2 MultiTools\n• Define Scanner\n• Locale Cleaner\n• Integrator"
 }
