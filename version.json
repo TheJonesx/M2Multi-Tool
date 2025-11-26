@@ -4,6 +4,7 @@
   "downloadUrl": "https://github.com/TheJonesx/M2Multi-Tool/releases/download/v1.0.0/",
   "files": [
     "M2-Tool.exe",
+    "M2-Tool.exe.config",
     "M2-Tool.dll",
     "M2-Tool.dll.config",
     "M2-Tool.deps.json",
@@ -16,4 +17,3 @@
   ],
   "changelog": "🆕 VERSION 1.0.0 - Initial Release\n\n✨ NEUE FEATURES\n• Initiale Version des M2 MultiTools\n• Define Scanner\n• Locale Cleaner\n• Integrator"
 }
-
