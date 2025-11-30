@@ -1,7 +1,7 @@
 {
-  "version": "2.1.0",
+  "version": "2.2.0",
   "releaseDate": "2025-01-01",
-  "downloadUrl": "https://github.com/TheJonesx/M2Multi-Tool/releases/download/v2.1.0/",
+  "downloadUrl": "https://github.com/TheJonesx/M2Multi-Tool/releases/download/v2.2.0/",
   "files": [
     "M2-Tool.exe",
     "M2-Tool.exe.config",
@@ -14,8 +14,9 @@
     "Updater.deps.json",
     "Updater.runtimeconfig.json"
   ],
-  "changelog": "🆕 VERSION 1.0.0 - Initial Release\n\n✨ NEUE FEATURES\n• Initiale Version des M2 MultiTools\n• Define Scanner\n• Locale Cleaner\n• Integrator"
+  "changelog": "🆕 VERSION 2.2.0 - Initial Release\n\n✨ NEUE FEATURES\n• Initiale Version des M2 MultiTools\n• Tutorial Tab Eingeführt"
 }
+
 
 
 
