@@ -1,7 +1,7 @@
 {
-  "version": "2.2.2",
+  "version": "2.2.3",
   "releaseDate": "2025-01-01",
-  "downloadUrl": "https://github.com/TheJonesx/M2Multi-Tool/releases/download/v2.2.2/",
+  "downloadUrl": "https://github.com/TheJonesx/M2Multi-Tool/releases/download/v2.2.3/",
   "files": [
     "M2-Tool.exe",
     "M2-Tool.exe.config",
@@ -14,8 +14,9 @@
     "Updater.deps.json",
     "Updater.runtimeconfig.json"
   ],
-  "changelog": "🆕 VERSION 2.2.2 - Initial Release\n\n✨ NEUE FEATURES\n• Initiale Version des M2 MultiTools\n• Tutorial Tab Eingeführt"
+  "changelog": "🆕 VERSION 2.2.3 - Bug Fixed at DefineTab"
 }
+
 
 
 
