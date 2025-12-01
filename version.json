@@ -1,7 +1,7 @@
 {
-  "version": "2.2.1",
+  "version": "2.2.2",
   "releaseDate": "2025-01-01",
-  "downloadUrl": "https://github.com/TheJonesx/M2Multi-Tool/releases/download/v2.2.1/",
+  "downloadUrl": "https://github.com/TheJonesx/M2Multi-Tool/releases/download/v2.2.2/",
   "files": [
     "M2-Tool.exe",
     "M2-Tool.exe.config",
@@ -16,6 +16,7 @@
   ],
   "changelog": "🆕 VERSION 2.2.0 - Initial Release\n\n✨ NEUE FEATURES\n• Initiale Version des M2 MultiTools\n• Tutorial Tab Eingeführt"
 }
+
 
 
 
