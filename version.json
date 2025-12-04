@@ -1,7 +1,7 @@
 {
-  "version": "2.2.6",
+  "version": "2.2.7",
   "releaseDate": "2025-01-01",
-  "downloadUrl": "https://github.com/TheJonesx/M2Multi-Tool/releases/download/v2.2.6/",
+  "downloadUrl": "https://github.com/TheJonesx/M2Multi-Tool/releases/download/v2.2.7/",
   "files": [
     "M2-Tool.exe",
     "M2-Tool.exe.config",
@@ -16,6 +16,7 @@
   ],
   "changelog": "🆕 VERSION 2.2.5 - Bug Fixed at DefineTab | Turkisch Language Added"
 }
+
 
 
 
